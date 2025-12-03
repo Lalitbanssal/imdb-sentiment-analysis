@@ -20,3 +20,7 @@ It uses a **Logistic Regression** model trained on TF-IDF features (Unigrams + B
 1. Clone the repo:
    ```bash
    git clone [https://github.com/Lalitbanssal/imdb-sentiment-analysis.git](https://github.com/Lalitbanssal/imdb-sentiment-analysis.git)
+2. Install dependencies:
+    pip install -r requirements.txt
+3. Run the app:
+   streamlit run app.py
